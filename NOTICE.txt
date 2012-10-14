@@ -1,0 +1,10 @@
+Straight-street api
+Copyright 2009-2012 Paxtoncrafts Charitable Trust
+
+URL routing and other tasks are performed using doophp PHP open source framework,
+written by Leng Sheng Hong and available under the New BSD licence.
+The original source is available at
+  http://www.doophp.com/
+
+JSON processing is provided by json2.js written by Douglas Crockford and put in the
+public domain.
