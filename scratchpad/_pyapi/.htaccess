@@ -1,0 +1,7 @@
+RewriteEngine On
+
+RewriteBase /api/
+RewriteCond %{REQUEST_METHOD} ^GET$
+#RewriteRule ^$ usage [R]
+#RewriteRule ^index\.html$ usage [R]
+RewriteRule (^.*$) get.py [L]
