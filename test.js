@@ -2,7 +2,7 @@
   ApiTest by Steve Lee
   Version: 0.1
   Homepage: http://straight-street.com/apitest.html
-  Copyright (c) 2009, Steve Lee, Full Measure
+  Copyright (c) 2009-2012, Garry Paxton
   Code licensed under the BSD License:
   http://straight-street.com/licence.txt
 */
