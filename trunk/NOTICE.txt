@@ -1,5 +1,4 @@
-Straight-street api
-Copyright 2009-2012 Paxtoncrafts Charitable Trust
+Copyright 2009-2012 Garry Paxton
 
 URL routing and other tasks are performed using doophp PHP open source framework,
 written by Leng Sheng Hong and available under the New BSD licence.
